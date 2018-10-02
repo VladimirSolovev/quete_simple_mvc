@@ -1,0 +1,21 @@
+{
+    "name": "vladimir/quete_simplemvc",
+    "description": "Quete de la WCS sur le simple MVC",
+    "authors": [
+        {
+            "name": "Vladimir Solovev",
+            "email": "vladimirsolovyev9@gmail.com"
+        }
+    ],
+
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
+
+
+
+
